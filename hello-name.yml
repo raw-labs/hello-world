@@ -1,0 +1,15 @@
+raw: 0.9
+endpoint: GET
+metadata:
+  title: Hello world
+  description: Hello world example
+  tags:
+    - helloworld
+code: rql
+declaration: hello_name
+codeFile: hello-world.rql
+format: json
+security:
+  public: true
+computeClass: normal
+enabled: true
