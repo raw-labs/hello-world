@@ -17,6 +17,9 @@ Clone this repository with your favorite CLI tool or with the VS Code Git extens
 5. Connect to the execution server and verify it works correclty<p>
 Select the RAW Labs extension on the left menu bar in vS code 
 
+![VS Code menus](https://github.com/raw-labs/hello-world/images/screen1.png)
+
+
 
 Endpoints :
 ## hello-world
