@@ -8,7 +8,8 @@ By following the steps here after you should be able to run the basic Hello Worl
 1. RAW account<p>
 To run this app, you need to be registered on raw-labs.com
 2. Visual Studio Code<p>
-In VS code, search for the RAW Labs extension in the standard Marketplace and install it.
+In VS code, search for the RAW Labs extension in the standard Marketplace and install it.<p>
+https://marketplace.visualstudio.com/items?itemName=RAWLabs.raw
 3. GitHub<p>
 Log into your GitHub account and install the RAW repository reader app. This application will synchronise your code with the RAW execution servers<p>
 https://github.com/apps/raw-repository-reader
