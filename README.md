@@ -32,10 +32,11 @@ You should now see the basic test code output on a JSON output tab<p>
 8. Execute Hello World!
 In the RAW Extension file explorer, select the hellow-world.yml file and then on the green right arrow to run the file.<p>
 9. Commit the Hello-world app to your own GitHub repo
-By doing so, the hello-world endpoint will become live from your published URL (hello-world in your raw-site.yml file)<p>
+By doing so, the hello-world endpoint will become live from your published URL (publishURL in raw-site.yml)<p>
 10. Check if the app is up and running
 Go to the RAW admin console, you should see the hello-world repo in the repository menu and the corresponding enpoints in the catalog menu.<p>
-From the catalog menu, you can copy the URL endpoint to your browser address bar and verify that it is working. 
+From the catalog menu, you can copy the URL endpoint to your browser address bar and verify that it is working.<p>
+It should be in the format https://<your-domain>.raw-labs.com/<publishUrl>/hello-world<p>
 
 
 
