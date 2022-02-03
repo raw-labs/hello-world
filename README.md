@@ -36,7 +36,7 @@ By doing so, the hello-world endpoint will become live from your published URL (
 10. Check if the app is up and running
 Go to the RAW admin console, you should see the hello-world repo in the repository menu and the corresponding enpoints in the catalog menu.<p>
 From the catalog menu, you can copy the URL endpoint to your browser address bar and verify that it is working.<p>
-It should be in the format https://<your-domain>.raw-labs.com/<publishUrl>/hello-world<p>
+It should be in the format https://`<your-domain>`.raw-labs.com/`<publishUrl>`/hello-world<p>
 
 
 
