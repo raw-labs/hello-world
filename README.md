@@ -18,18 +18,14 @@ For RAW labs to be aware of the code you want to run, you need to install the RA
 Go [there](https://github.com/apps/raw-repository-reader) and select your remote Hello World repository to allow RAW to access it<br>
 ![Repository access](images/screen2.png)<br>
 5. In VS Code, connect to the execution server and verify it works correclty.<br>
-Select the RAW Labs extension on the left menu bar in VS Code and choose the Scratchpad option at the top right.<br>
-<br>
-![VS Code Menus](images/screen1.png)
-<br>
-6. Run the test code
+Select the RAW Labs extension on the left menu bar in VS Code and choose the Scratchpad option at the top right.<br><br>
+![VS Code Menus](images/screen1.png)<br>
+6. Run the test code<br>
 In the scratchpad window, on the top right, there is a green "Run" arrow. Click it to run the test code in the scratchpad.<br>
 It should ask you for a token from the execution server.<br><br>
 7. Get the RAW token<br>
 Go to the [RAW admin console] "https://app.raw-labs.com/" and get the token from the top right user's menu.<br>
-<br>
-![Token from the RAW admin console](images/token1.png)
-<br>
+![Token from the RAW admin console](images/token1.png)<br>
 Copy the token and paste it in VS Code when asked to.<br>
 This will connect your IDE with the RAW execution server.<br>
 You should now see the basic test code output on a JSON output tab<br><br>
