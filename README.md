@@ -32,7 +32,7 @@ You should now see the basic test code output on a JSON output tab<br><br>
 8. Execute Hello World!<br>
 In the RAW Extension file explorer, select the hellow-world.yml file and then on the green right arrow to run the file.<br><br>
 10. Check if the app is up and running<br>
-Go to the [RAW admin console](https://app.raw-labs.com), you should see hello-world in the repository menu and the corresponding enpoints in the catalog menu.<br><br>
+Go to the [RAW admin console](https://app.raw-labs.com), you should see hello-world in the repository menu and the corresponding enpoints in the catalog menu.<br>
 From the catalog menu, you can copy the URL endpoint to your browser address bar and verify that it is working.<br>
 It should be in this format https://`your-domain`.raw-labs.com/`publishUrl`/hello-world<br>
 (note: `publishUrl`is defined in the raw-site.yml file)
