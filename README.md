@@ -15,10 +15,8 @@ Clone the current Hello World repository with your favorite CLI tool or with the
 4. GitHub<br>
 Log into your GitHub account, create a remote repository for the Hello World project, connect your local folder to the remote and commit there (more instructions [here](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-an-existing-project-to-github-using-the-command-line) ).<br>
 For RAW labs to be aware of the code you want to run, you need to install the RAW repository reader app. This application will synchronise your code with the RAW execution servers<br>
-Go [there](https://github.com/apps/raw-repository-reader) and select your remote Hello World repository to allow RAW to access it
-<br>
-![Repository access](images/screen2.png)
-<br>
+Go [there](https://github.com/apps/raw-repository-reader) and select your remote Hello World repository to allow RAW to access it<br>
+![Repository access](images/screen2.png)<br>
 5. In VS Code, connect to the execution server and verify it works correclty.<br>
 Select the RAW Labs extension on the left menu bar in VS Code and choose the Scratchpad option at the top right.<br>
 <br>
