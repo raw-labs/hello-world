@@ -33,9 +33,7 @@ If you get stuck, then watch our video here (add link, todo.)
 add image: todo
 - RAW needs access to your new repository in order to synchronize and execute code. Go to our [Repository Reader](https://github.com/apps/raw-repository-reader) GitHub app, Click Congfigure and select your GitHub Account, then the repository you just created, to allow RAW to access it. (You can also give RAW access to all, or multiple repositories)<br>
 ![Repository access](images/screen2.png)<br>
-- Go to the RAW App again (Admin interface) and select 'Repositories' on the left hand side. Click '+Add' then select your new repository to add to your account.<br>
-add image:todo
-- Clone your new forked repository, either in GitHub Deskop, command-line, or do it below in VS Code if you prefer<br>
+- To Develop locally, clone your new forked repository, either in GitHub Deskop, command-line, or do it below in VS Code if you prefer<br>
 add image: todo
 
 
