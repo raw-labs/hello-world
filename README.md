@@ -1,25 +1,24 @@
-## hello-world
-hello-world()<br>
-returns "Hello World!"
-
-https://api.raw-labs.com/hello-world/hello-world
-
-## hello-name
-hello-name(name: string)<br>
-returns "Hello `name`!"
-
-https://api.raw-labs.com/hello-world/hello-name?name=Joe
-
 
 ## Get Started with RAW: Hello world!
 
 It's easy, follow these steps to get going with RAW.<br>
 If you get stuck, then watch our video here (add link, todo.)
 
+## Pre-requisites
+- GitHub account (personal one is fine)
+- [Download and install](https://code.visualstudio.com/download) VS Code
+- RAW id - to request access, email us at hello@raw-labs.com or go to our [website](https://raw-labs.com#subscribe) and register. We will set you up with an Organization Name, and send this to your email. 
 
-### 1. RAW App
-- To request access, email us at hello@raw-labs.com or go to our [website](https://raw-labs.com#subscribe) and register
-- We will set you up with an Organization Name, and send this to your email. 
+
+### 1. GitHub
+- Log into your GitHub account, go to this [hello-world](https://github.com/raw-labs/hello-world) page, then Fork the repository (top right) to your account<br>
+add image: todo
+- RAW needs access to your new repository in order to synchronize and execute code. Go to our [Repository Reader](https://github.com/apps/raw-repository-reader) GitHub app, Click Congfigure and select your GitHub Account, then the repository you just created, to allow RAW to access it. (You can also give RAW access to all, or multiple repositories)<br>
+![Repository access](images/screen2.png)<br>
+- To Develop locally, clone your new forked repository, either in GitHub Deskop, command-line, or do it below in VS Code if you prefer<br>
+add image: todo
+
+### 2. RAW App
 - Login to the [RAW App](https://app.raw-labs.com), and enter your Organization Name, and click "Administration"<br>
 (add image: todo)
 - It will prompt you for email and password, but click _'Don't Remember Your Password'_<br>
@@ -28,17 +27,9 @@ If you get stuck, then watch our video here (add link, todo.)
 - Once logged into the RAW App, click on your email account from the top right corner menu and **copy the token**  (you will need it later for VS Code).<br>
 ![Token from the RAW admin console](images/token1.png)<br>
 
-### 2. GitHub
-- Log into your GitHub account, go to this [hello-world](https://github.com/raw-labs/hello-world) page, then Fork the repository (top right) to your account<br>
-add image: todo
-- RAW needs access to your new repository in order to synchronize and execute code. Go to our [Repository Reader](https://github.com/apps/raw-repository-reader) GitHub app, Click Congfigure and select your GitHub Account, then the repository you just created, to allow RAW to access it. (You can also give RAW access to all, or multiple repositories)<br>
-![Repository access](images/screen2.png)<br>
-- To Develop locally, clone your new forked repository, either in GitHub Deskop, command-line, or do it below in VS Code if you prefer<br>
-add image: todo
-
 
 ### 3. VS Code
-- [Download and install](https://code.visualstudio.com/download) VS Code
+
 - In VS Code, search for the RAW Labs extension in the standard Marketplace and install it. You can find it [here](https://marketplace.visualstudio.com/items?itemName=RAWLabs.raw) too.<br>
 (show image: todo)
 - Clone the new repository if you haven't alraeady, in VS Code (you will need a [GitHub Extension](https://marketplace.visualstudio.com/search?term=Github&target=VSCode&category=All%20categories&sortBy=Installs))<br>
@@ -58,5 +49,18 @@ You can now go back to the RAW App, click 'Refresh' in the Catalog, and see the 
 From the catalog menu, you can copy the URL endpoint for either 'hello-world' or 'hello-name' endpoints to your browser address bar and verify they are working.
 Endpoints will be named <yourOrg> instead of 'api'<br>
 (show image: todo)
+
+## hello-world
+hello-world()<br>
+returns "Hello World!"
+
+https://api.raw-labs.com/hello-world/hello-world
+
+## hello-name
+hello-name(name: string)<br>
+returns "Hello `name`!"
+
+https://api.raw-labs.com/hello-world/hello-name?name=Joe
+
 
 
