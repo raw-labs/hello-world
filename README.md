@@ -13,7 +13,7 @@ If you get stuck, then watch our video here (add link, todo.)
 ### 1. GitHub
 - Log into your GitHub account, and Fork this [hello-world](https://github.com/raw-labs/hello-world) repository (top right) to your account<br>
 add image: todo
-- RAW needs access to your new repository in order to synchronize and execute code. Go to our [Repository Reader](https://github.com/apps/raw-repository-reader) GitHub app, Click Congfigure and select your GitHub Account, then the repository you just created, to allow RAW to access it. (You can also give RAW access to all, or multiple repositories)<br>
+- RAW needs access to your new repository in order to synchronize and execute code. Go to our [Repository Reader](https://github.com/apps/raw-repository-reader) GitHub app, Click Configure and select your GitHub Account, then the repository you just created, to allow RAW to access it. (You can also give RAW access to all, or multiple repositories)<br>
 ![Repository access](images/screen2.png)<br>
 - To Develop locally, clone your new forked repository, either in GitHub Deskop, command-line, or do it below in VS Code if you prefer<br>
 add image: todo
