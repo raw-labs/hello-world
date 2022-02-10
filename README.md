@@ -29,9 +29,9 @@ If you get stuck, then watch our video here (add link, todo.)
 ![Token from the RAW admin console](images/token1.png)<br>
 
 ### 2. GitHub
-- Log into your GitHub account, go to this page, then Fork the hello-world repository (top right) to your account<br>
+- Log into your GitHub account, go to this [hello-world](https://github.com/raw-labs/hello-world) page, then Fork the repository (top right) to your account<br>
 add image: todo
-- RAW needs access to your new repository in order to synchronize and execute code. Go to our [Repository Reader](https://github.com/apps/raw-repository-reader), Click Congfigure and select your GitHub Account, then the repository you just created, to allow RAW to access it. (You can also give RAW access to all repositories)<br>
+- RAW needs access to your new repository in order to synchronize and execute code. Go to our [Repository Reader](https://github.com/apps/raw-repository-reader) GitHub app, Click Congfigure and select your GitHub Account, then the repository you just created, to allow RAW to access it. (You can also give RAW access to all, or multiple repositories)<br>
 ![Repository access](images/screen2.png)<br>
 - Go to the RAW App again (Admin interface) and select 'Repositories' on the left hand side. Click '+Add' then select your new repository to add to your account.<br>
 add image:todo
