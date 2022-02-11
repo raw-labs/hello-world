@@ -23,7 +23,7 @@ go to this secton on [YouTube](https://www.youtube.com/watch?v=Viz59fhlET4&t=19s
 
 ### 2. RAW App
 go to this secton on [YouTube](https://www.youtube.com/watch?v=Viz59fhlET4&t=61s)
-- You will receive an email to **reset your password** (from no-reply@raw-labs.com), click on that and set your password<br>
+- You will receive an email to **reset your password** (from no-reply@raw-labs.com), click on the link inside to set your password<br>
 - Login to the [RAW App](https://app.raw-labs.com), and enter your Organization Name, and click "Administration"<br>
 - It will prompt you for new email and password<br>
 - Once logged into the RAW App, click on your email account from the top right corner menu and **copy the token**  (you will need it later for VS Code).<br>
