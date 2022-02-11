@@ -15,14 +15,14 @@ If you get stuck, watch our video (4 mins):
 
 
 ### 1. GitHub 
-see on [YouTube](https://www.youtube.com/watch?v=Viz59fhlET4&t=19s)
+go to this secton on [YouTube](https://www.youtube.com/watch?v=Viz59fhlET4&t=19s)
 - Log into your GitHub account, and Fork this [hello-world](https://github.com/raw-labs/hello-world) repository (top right) to your account<br>
 - RAW needs access to your new repository in order to synchronize and execute code. Go to our [Repository Reader](https://github.com/apps/raw-repository-reader) GitHub app, Click Configure and select your GitHub Account, then the repository you just created, to allow RAW to access it. (You can also give RAW access to all, or multiple repositories)<br>
 - To Develop locally, clone your new forked repository, either in GitHub Deskop, command-line, or do it below in VS Code if you prefer<br>
 
 
 ### 2. RAW App
-see on [YouTube](https://www.youtube.com/watch?v=Viz59fhlET4&t=61s)
+go to this secton on [YouTube](https://www.youtube.com/watch?v=Viz59fhlET4&t=61s)
 - Login to the [RAW App](https://app.raw-labs.com), and enter your Organization Name, and click "Administration"<br>
 
 - It will prompt you for email and password, but click _'Don't Remember Your Password'_<br>
@@ -32,7 +32,7 @@ see on [YouTube](https://www.youtube.com/watch?v=Viz59fhlET4&t=61s)
 
 
 ### 3. VS Code
-see on [YouTube](https://www.youtube.com/watch?v=Viz59fhlET4&t=117s). Also, full instructions for the VS Code extension can be found [here](https://github.com/raw-labs/vscode/blob/main/README.md)
+go to this secton on [YouTube](https://www.youtube.com/watch?v=Viz59fhlET4&t=117s). Also, full instructions for the VS Code extension can be found [here](https://github.com/raw-labs/vscode/blob/main/README.md)
 - In VS Code, search for the RAW Labs extension in the standard Marketplace and install it. You can find it [here](https://marketplace.visualstudio.com/items?itemName=RAWLabs.raw) too. 
 
 - Clone the new repository if you haven't alraeady, in VS Code (you will need a [GitHub Extension](https://marketplace.visualstudio.com/search?term=Github&target=VSCode&category=All%20categories&sortBy=Installs))<br>
