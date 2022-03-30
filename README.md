@@ -48,7 +48,7 @@ You can now go back to the RAW App, click 'Refresh' in the Catalog, and see the 
 
 
 From the catalog menu, you can copy the URL endpoint for either 'hello-world' or 'hello-name' endpoints to your browser address bar and verify they are working.
-Endpoints will be named 'yourOrganization' instead of 'api'<br>
+Endpoints will be named 'your Organization' instead of 'api'<br>
 
 
 ## hello-world
