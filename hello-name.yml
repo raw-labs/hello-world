@@ -13,3 +13,4 @@ security:
   public: true
 computeClass: normal
 enabled: true
+expireSeconds: 3600
