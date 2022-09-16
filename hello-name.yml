@@ -10,7 +10,9 @@ declaration: hello_name
 codeFile: hello-world.rql
 format: json
 security:
-  public: true
+  public: false
+  scopes: 
+    - test
 computeClass: normal
 enabled: true
 expireSeconds: 3600
