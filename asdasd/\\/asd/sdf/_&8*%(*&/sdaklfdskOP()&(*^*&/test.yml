@@ -1,0 +1,44 @@
+raw: 0.9  # Endpoint spec file version, only 0.9 is allowed (required)
+endpoint: GET # HTTP method only GET is allowed (required)
+#
+# Endpoint metadata (optional)
+#
+metadata:
+  title: My example endpoint
+  description: This is my example endpoint!
+  tags:
+    - example
+    - sales
+#
+# Endpoint code
+#
+code: rql # only "rql" is accepted (required)
+codeFile: ../../../../../../hello-world.rql # Relative path to the RQL file in this repository (required).
+declaration: my_function # Declaration in the RQL file to use for this endpoint (optional). If not specified, code must evaluate to an expression.
+#
+# Endpoint security (optional)
+# Default is secure with no scopes.
+#
+security:
+  public: true # If not specified defaults to false.
+  scopes: # Only users or apps with the following OAuth scopes can access this endpoint.
+    - sales
+#
+# Endpoint deployment settings
+#
+format: json # Output format, available options: json or csv. (required)
+computeClass: normal # Compute class/resources for this service. (required)
+enabled: true # If not specified defaults to true.
+cacheSizeMB: 200
+computeLimitSeconds: 10
+buildOnPublish: false
+expireSeconds: 10 # If not specified, cached data does not expire.
+refreshCron: "* */30 * * * ?" # Run the query in the background every 30 minutes.
+tests:
+  - name: ATest without arguments # Required
+    description: a simple test without arguments
+  - name: ATest with arguments # Required
+    description: a simple test with arguments
+    arguments:
+      - key: arg1
+        value: value_of_arg
