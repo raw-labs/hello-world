@@ -5,11 +5,14 @@ metadata:
   description: Hello world example
   tags:
     - helloworld
-code: rql
+code: snapi
 declaration: hello_world
-codeFile: hello-world.rql
+codeFile: hello-world.snapi
 format: json
 security:
   public: true
 computeClass: normal
 enabled: true
+tests:
+  - name: Hello World test
+    description: Tests a hello world endpoint
