@@ -1,3 +1,4 @@
+# WARNING: This repository uses deprecated features. Please refer to [this page](https://app.raw-labs.com/home/) for the latest examples.
 
 ## Get Started with RAW: Hello world!
 
