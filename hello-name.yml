@@ -1,3 +1,4 @@
+# yaml-language-server: $schema=https://cdn.raw-labs.com/endpoint-schemaV0.9.json
 raw: 0.9
 endpoint: GET
 metadata:
@@ -5,11 +6,17 @@ metadata:
   description: Hello world example
   tags:
     - helloworld
-code: rql
+code: snapi
 declaration: hello_name
-codeFile: hello-world.rql
+codeFile: hello-world.snapi
 format: json
 security:
   public: true
 computeClass: normal
 enabled: true
+tests:
+  - name: Echo Name
+    arguments:
+      - key: name
+        value: snapi
+    description: An echo name test
