@@ -15,4 +15,4 @@ security:
     - test
 computeClass: normal
 enabled: true
-expireSeconds: "3600"
+expireSeconds: 3600
