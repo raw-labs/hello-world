@@ -5,7 +5,7 @@ metadata:
   title: Hello world
   description: Hello world example
   tags:
-    - helloworld
+    - hello-world
 code: snapi
 declaration: hello_name
 codeFile: hello-world.snapi
