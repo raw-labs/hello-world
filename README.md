@@ -1,12 +1,10 @@
-# WARNING: This repository uses deprecated features. Please refer to [this page](https://app.raw-labs.com/home/) for the latest examples.
-
-## Get Started with RAW: Hello world!
+# Get Started with RAW: Hello world!
 
 We have a great [**new docs site**](https://docs.raw-labs.com) and are working hard to make it the best developer and learning experience possible.
 
 Everything you need to get going can be found here >>> https://docs.raw-labs.com/docs/get-started/
 
-## Questions? Problems? 
+# Questions? Problems? 
 
 Are always welcome here: hello <_at_> raw-labs.com
 
