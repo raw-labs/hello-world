@@ -1,4 +1,2 @@
 # yaml-language-server: $schema=https://rawlabs-public-test-data.s3.eu-west-1.amazonaws.com/raw-site-schemaV0.9.json
-raw: 0.9
-publishUrl: hello-world
-enabled: true
+test : 12
