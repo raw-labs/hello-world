@@ -2,17 +2,18 @@
 raw: 0.9
 endpoint: GET
 metadata:
-  title: Hello world
+  title: Hello name
   description: Hello world example
   tags:
     - hello-world
-    - koukou
 code: snapi
 declaration: hello_name
 codeFile: hello-world.snapi
 format: json
 security:
-  public: true
+  public: false
+  scopes:
+    - other
 computeClass: normal
 enabled: true
 tests:
