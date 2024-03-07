@@ -10,7 +10,9 @@ declaration: hello_world
 codeFile: hello-world.snapi
 format: json
 security:
-  public: true
+  public: false
+  scopes:
+    - test
 computeClass: normal
 enabled: true
 tests:
