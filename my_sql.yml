@@ -16,7 +16,6 @@ metadata:
   version: "0.9"
 code: "sql"
 codeFile: "code.sql"
-declaration: "main"
 security:
   public: true
   scopes: []
