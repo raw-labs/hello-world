@@ -8,10 +8,10 @@ metadata:
   contact:
     name: thanasis.stouraitis@raw-labs.com
     email: thanasis.stouraitis@raw-labs.com
-    url: 
+    url: ""
   license:
     name: No License
-    url: 
+    url: ""
   version: 0.9
 code: sql
 codeFile: code.sql
