@@ -1,27 +1,27 @@
-raw: "0.9"
-endpoint: "GET"
+raw: 0.9
+endpoint: GET
 metadata:
-  title: "Blank Endpoint"
-  description: "Blank template to build an endpoint from scratch"
+  title: Blank Endpoint
+  description: Blank template to build an endpoint from scratch
   tags: []
-  author: "thanasis.stouraitis@raw-labs.com"
+  author: thanasis.stouraitis@raw-labs.com
   contact:
-    name: "thanasis.stouraitis@raw-labs.com"
-    email: "thanasis.stouraitis@raw-labs.com"
-    url: ""
+    name: thanasis.stouraitis@raw-labs.com
+    email: thanasis.stouraitis@raw-labs.com
+    url: 
   license:
-    name: "No License"
-    url: ""
-  version: "0.9"
-code: "sql"
-codeFile: "code.sql"
-declaration: "main"
+    name: No License
+    url: 
+  version: 0.9
+code: sql
+codeFile: code.sql
+declaration: main
 security:
   public: true
   scopes: []
-format: "json"
+format: json
 enabled: true
-computeClass: "normal"
+computeClass: normal
 computeLimitSeconds: 3600
 cacheSizeMB: 500
 expireSeconds: 30
