@@ -10,6 +10,5 @@ codeFile: code.sql
 format: json
 security:
   public: true
-  scopes:
 computeClass: normal
 enabled: true
