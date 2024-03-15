@@ -1,14 +1,27 @@
-raw: 0.9
-endpoint: GET
+raw: "0.9"
+endpoint: "GET"
 metadata:
-  title: Remote SQL
-  description: An example of a remote SQL endpoint
-  tags:
-    - sql
-code: sql
-codeFile: code.sql
-format: json
+  title: "Blank Endpoint"
+  description: "Blank template to build an endpoint from scratch"
+  tags: []
+  author: "thanasis.stouraitis@raw-labs.com"
+  contact:
+    name: "thanasis.stouraitis@raw-labs.com"
+    email: "thanasis.stouraitis@raw-labs.com"
+    url: ""
+  license:
+    name: "No License"
+    url: ""
+  version: "0.9"
+code: "sql"
+codeFile: "code.sql"
+declaration: "main"
 security:
   public: true
-computeClass: normal
+  scopes: []
+format: "json"
 enabled: true
+computeClass: "normal"
+computeLimitSeconds: 3600
+cacheSizeMB: 500
+expireSeconds: 30
