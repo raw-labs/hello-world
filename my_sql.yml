@@ -1,0 +1,15 @@
+raw: 0.9
+endpoint: GET
+metadata:
+  title: Remote SQL
+  description: An example of a remote SQL endpoint
+  tags:
+    - sql
+code: sql
+codeFile: code.sql
+format: json
+security:
+  public: true
+  scopes:
+computeClass: normal
+enabled: true
