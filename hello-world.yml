@@ -14,7 +14,7 @@ security:
   scopes:
     - test
 computeClass: normal
-enabled: false
+enabled: true
 tests:
   - name: Hello World test
     description: Tests a hello world endpoint
