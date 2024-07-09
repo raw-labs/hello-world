@@ -15,7 +15,7 @@ security:
   scopes:
     - other
 computeClass: normal
-enabled: false
+enabled: true
 tests:
   - name: Echo Name
     arguments:
