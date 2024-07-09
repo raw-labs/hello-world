@@ -1,9 +1,9 @@
 ---
-raw: "0.9"
+raw: "0.10"
 endpoint: "GET"
 metadata:
-  title: "Blank Endpoint"
-  description: "Blank template to build an endpoint from scratch"
+  title: "SQL Endpoint"
+  description: "My first sql endpoint"
   tags: []
   author: "thanasis.stouraitis@raw-labs.com"
   contact:
@@ -13,10 +13,8 @@ metadata:
   license:
     name: "No License"
     url: ""
-  version: "0.9"
 code: "sql"
 codeFile: "code.sql"
-declaration: "main"
 security:
   public: true
   scopes: []
