@@ -1,7 +1,7 @@
 // Hello world Example
 // returns a simple string
 
-hello_world() =  "Hello World!"
+hello_world() =  "Hello World! +++ NEW"
 
 // Hello Name Example
 
