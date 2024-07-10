@@ -1,4 +1,5 @@
-raw: 0.9
+# yaml-language-server: $schema=https://cdn.raw-labs.com/endpoint-schemaV0.10.json
+raw: "0.10"
 endpoint: GET
 metadata:
   title: Hello world
