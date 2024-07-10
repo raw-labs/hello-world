@@ -1,8 +1,10 @@
-// Hello world Example
-// returns a simple string
+// Simple Snapi Example
+// Defines two declarations, which are used by hello-world.yml and hello-name.yml
 
-hello_world() =  "Hello World!"
+// Defines a declaration called 'hello_world' that returns a string.
+// This is used by hello-world.yml, which references declaration 'hello_world'.
+hello_world() = "Hello World!"
 
-// Hello Name Example
-
-hello_name(name: string) = "Hello "+name+" !"
+// Defines a declaration called 'hello_name' that takes an argument and returns a string.
+// This is used by hello-name.yml, which references declaration 'hello_name'.
+hello_name(name: string) = "Hello " + name + "!"
